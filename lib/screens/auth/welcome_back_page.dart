@@ -17,7 +17,7 @@ class _WelcomeBackPageState extends State<WelcomeBackPage> {
   @override
   Widget build(BuildContext context) {
     Widget welcomeBack = Text(
-      'Welcome Back Roberto,',
+      'Welcome Bro / Sis,',
       style: TextStyle(
           color: Colors.white,
           fontSize: 34.0,
@@ -34,7 +34,7 @@ class _WelcomeBackPageState extends State<WelcomeBackPage> {
     Widget subTitle = Padding(
         padding: const EdgeInsets.only(right: 56.0),
         child: Text(
-          'Login to your account using\nMobile number',
+          'Login to your account using\nMobile number / Email',
           style: TextStyle(
             color: Colors.white,
             fontSize: 16.0,
